@@ -14,7 +14,8 @@ A small collection of demo-ready AI product prototypes I built recently.
 
 ### 2) Desktop Pet #1 (IrisPet)
 **What it is:** A playful desktop companion app with draggable, always-on-top behavior and animated states.  
-**Link:** (coming soon)
+**Repo:** https://github.com/jiayi-jin/iris-desktop-pet  
+**Download:** https://github.com/jiayi-jin/iris-desktop-pet/releases  
 
 ---
 
