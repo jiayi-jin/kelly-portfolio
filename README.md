@@ -8,7 +8,7 @@ A small collection of demo-ready AI product prototypes I built recently.
 **What it is:** Upload 2–3 design versions, pick an industry + persona + weights, and generate agent-based consumer feedback + audit.
 - Agent A (GPT): persona-driven review + 0–100 scores  
 - Agent B (Gemini): audit for human-likeness & persona fit  
-**Link:** (coming soon)
+**Link:** [(coming soon)](https://github.com/jiayi-jin/kelly-portfolio)
 
 ---
 
