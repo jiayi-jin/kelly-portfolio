@@ -20,8 +20,8 @@ A small collection of demo-ready AI product prototypes I built recently.
 
 ### 3) Desktop Pet #2 (SosoPet)
 **What it is:** Another desktop pet variant with different interactions/animations, packaged as a runnable app.  
-**Repo:** https://github.com/jiayi-jin/soso-desktop-pet-Public-
-**Download:** https://github.com/jiayi-jin/soso-desktop-pet-Public-/releases
+**Repo:** https://github.com/jiayi-jin/soso-desktop-pet
+**Download:** https://github.com/jiayi-jin/soso-desktop-pet/releases
 
 ## Contact
 - GitHub: https://github.com/jiayi-jin# kelly-portfolio
